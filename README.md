@@ -1,0 +1,4 @@
+zabbix
+======
+
+Scripts and templates
