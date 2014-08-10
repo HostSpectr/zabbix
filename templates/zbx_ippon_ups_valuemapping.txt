@@ -13,5 +13,5 @@ Value mapping:
 8 ⇒ UPS is currently performing runtime calibration (on battery)
 9 ⇒ UPS is offline and is not supplying power to the load
 10 ⇒ UPS is overloaded
-11 ⇒ UPS is trimming incoming voltage (called "buck" in some hardware
+11 ⇒ UPS is trimming incoming voltage
 12 ⇒ UPS is boosting incoming voltage
