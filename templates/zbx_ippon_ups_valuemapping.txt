@@ -1,7 +1,7 @@
 Name:
 Ippon Battery Status
 
-Vvalue mapping:
+Value mapping:
 0 ⇒ unknown state
 1 ⇒ On line (mains is present)
 2 ⇒ On battery (mains is not present)
