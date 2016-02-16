@@ -3,7 +3,7 @@
 use strict;
 use POSIX;
 use DBI;
-use encoding 'utf8';
+use utf8;
 
 my $phone=@ARGV[0];
 my $subj=@ARGV[1];
